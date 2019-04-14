@@ -1,5 +1,5 @@
 # K-means-Clustering-Implementation
-Implement K-means Clustering without calling package function.
+Implement K-means Clustering without just calling a package function.
 
 Code explanation in Problem3 section in hw2_updated.pdf.
 
